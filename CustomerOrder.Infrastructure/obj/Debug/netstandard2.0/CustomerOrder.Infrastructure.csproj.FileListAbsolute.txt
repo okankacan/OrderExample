@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\OrderExample\CustomerOrder.Infrastructure\obj\Debug\netstandard2.0\CustomerOrder.Infrastructure.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\OrderExample\CustomerOrder.Infrastructure\obj\Debug\netstandard2.0\CustomerOrder.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\OrderExample\CustomerOrder.Infrastructure\obj\Debug\netstandard2.0\CustomerOrder.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\OrderExample\CustomerOrder.Infrastructure\obj\Debug\netstandard2.0\CustomerOrder.Infrastructure.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\OrderExample\CustomerOrder.Infrastructure\bin\Debug\netstandard2.0\CustomerOrder.Infrastructure.deps.json
+C:\Users\lenovo\source\repos\OrderExample\CustomerOrder.Infrastructure\bin\Debug\netstandard2.0\CustomerOrder.Infrastructure.dll
+C:\Users\lenovo\source\repos\OrderExample\CustomerOrder.Infrastructure\bin\Debug\netstandard2.0\CustomerOrder.Infrastructure.pdb
+C:\Users\lenovo\source\repos\OrderExample\CustomerOrder.Infrastructure\bin\Debug\netstandard2.0\CustomerOrder.Core.dll
+C:\Users\lenovo\source\repos\OrderExample\CustomerOrder.Infrastructure\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\source\repos\OrderExample\CustomerOrder.Infrastructure\bin\Debug\netstandard2.0\CustomerOrder.Core.pdb
+C:\Users\lenovo\source\repos\OrderExample\CustomerOrder.Infrastructure\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\lenovo\source\repos\OrderExample\CustomerOrder.Infrastructure\obj\Debug\netstandard2.0\CustomerOrder.Infrastructure.csproj.CopyComplete
+C:\Users\lenovo\source\repos\OrderExample\CustomerOrder.Infrastructure\obj\Debug\netstandard2.0\CustomerOrder.Infrastructure.dll
+C:\Users\lenovo\source\repos\OrderExample\CustomerOrder.Infrastructure\obj\Debug\netstandard2.0\CustomerOrder.Infrastructure.pdb
+C:\Users\lenovo\source\repos\OrderExample\CustomerOrder.Infrastructure\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\lenovo\source\repos\OrderExample\CustomerOrder.Infrastructure\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
